@@ -8,3 +8,8 @@ Day0.1: Lesson 1
 ---------------
 1- Udacity: Intro to deep learning with Pytorch. 
 2- Few videos into lesson 1
+
+Day0.2: Lesson 1
+---------------
+1- Udacity: Lesson 1. Starting to get into sigmoid functions
+2- Twitter bot idea
