@@ -13,3 +13,8 @@ Day0.2: Lesson 1
 ---------------
 1- Udacity: Lesson 1. Starting to get into sigmoid functions
 2- Twitter bot idea
+
+Day0.3+4: Lesson 1
+---------------
+1- Udacity: Lesson 1. Most algorithms sound like the do the same thing
+2- Twitter bot idea
