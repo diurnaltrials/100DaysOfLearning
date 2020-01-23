@@ -23,3 +23,9 @@ Day0.5: Lesson 1
 ---------------
 1- Udacity: Lesson 1. Fitting, Regularization, Activation functions. 
 2- Missed days: 1
+
+
+Day0.5+6+7: Lesson 1 and Lesson 2
+---------------
+1- Udacity: Lesson 1. G.Decent. Stochastic GD. Lesson 2. Using pytorch to work with MNIST, Fashion MNIST, and transfer learning. Neat.   
+2- Missed days: 0
