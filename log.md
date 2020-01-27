@@ -29,3 +29,20 @@ Day0.5+6+7: Lesson 1 and Lesson 2
 ---------------
 1- Udacity: Lesson 1. G.Decent. Stochastic GD. Lesson 2. Using pytorch to work with MNIST, Fashion MNIST, and transfer learning. Neat.   
 2- Missed days: 0
+
+Day0.8+9: Lesson 33
+---------------
+1- Udacity: CNN Lesson   
+2- Missed days: 0
+
+Day0.10: SAT MISSED
+---------------
+1- Missed days: -1
+
+Day0.11: SUN MISSED
+---------------
+1- Missed days: -2
+
+Day0.12: Explore Twitter API
+---------------
+1- Missed days: -2
