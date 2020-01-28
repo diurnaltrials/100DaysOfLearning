@@ -46,3 +46,4 @@ Day0.11: SUN MISSED
 Day0.12: Explore Twitter API
 ---------------
 1- Missed days: -2
+2- Read about Tweepy. I think I will need Steam functionality. 
