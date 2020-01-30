@@ -52,3 +52,8 @@ Day0.13: Miniconda3
 ---------------
 1- Missed days: -2
 2- Tried to install miniconda on machine. 
+
+Day0.14: Tweepy Bot
+---------------
+1- Missed days: -2
+2- Started to code a tweepy script. 
