@@ -46,4 +46,9 @@ Day0.11: SUN MISSED
 Day0.12: Explore Twitter API
 ---------------
 1- Missed days: -2
-2- Read about Tweepy. I think I will need Steam functionality. 
+2- Read about Tweepy. I think I will need Stream functionality. 
+
+Day0.13: Miniconda3
+---------------
+1- Missed days: -2
+2- Tried to install miniconda on machine. 
