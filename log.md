@@ -57,3 +57,8 @@ Day0.14: Tweepy Bot
 ---------------
 1- Missed days: -2
 2- Started to code a tweepy script. 
+
+Day0.15: Tweepy Bot
+---------------
+1- Missed days: -2
+2- Went throught tweeter setup (no logic is in place yet) 
