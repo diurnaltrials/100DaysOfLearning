@@ -61,4 +61,9 @@ Day0.14: Tweepy Bot
 Day0.15: Tweepy Bot
 ---------------
 1- Missed days: -2
-2- Went throught tweeter setup (no logic is in place yet) 
+2- Went throught tweeter setup (no logic is in place yet)
+
+Day0.16: Tweepy Bot
+---------------
+1- Missed days: -3
+2- Started to process tweets (logic in progressp) 
