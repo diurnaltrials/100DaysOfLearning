@@ -66,4 +66,10 @@ Day0.15: Tweepy Bot
 Day0.16: Tweepy Bot
 ---------------
 1- Missed days: -3
-2- Started to process tweets (logic in progressp) 
+2- Started to process tweets (logic in progressp)
+
+Day0.17+18: Tweepy Bot
+---------------
+1- Missed days: -1 (day 19)
+2- Dealing with tweepy issues with sending DM 
+
