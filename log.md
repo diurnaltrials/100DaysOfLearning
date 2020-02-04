@@ -73,3 +73,8 @@ Day0.17+18: Tweepy Bot
 1- Missed days: -1 (day 19)
 2- Dealing with tweepy issues with sending DM 
 
+Day0.21: Udacity
+---------------
+1- Missed days: -1.5 (day 19 and day 20 = weekend)
+2- Back to udacity class. Set up conda env. 
+
