@@ -78,3 +78,8 @@ Day0.21: Udacity
 1- Missed days: -1.5 (day 19 and day 20 = weekend)
 2- Back to udacity class. Set up conda env. 
 
+Day0.22: Udacity
+---------------
+1- Missed days: -1.5 (day 19 and day 20 = weekend)
+2- Working with tensors. 
+
