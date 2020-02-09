@@ -92,3 +92,8 @@ Day0.23+24+25: Udacity
 ---------------
 1- Missed days: -1.5 (day 19 and day 20 = weekend)
 2- Worked through MNIST example. 
+
+Day0.26: Tweepy
+---------------
+1- Missed days: 0
+2- Got a script to interface with twitter and search for keywords to work!!! 
