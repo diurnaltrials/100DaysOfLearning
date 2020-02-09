@@ -83,6 +83,11 @@ Day0.22: Udacity
 1- Missed days: -1.5 (day 19 and day 20 = weekend)
 2- Working with tensors. 
 
+Day0.23-24: Udacity
+---------------
+1- Missed days: -1.5 (day 19 and day 20 = weekend)
+2- Worked through MNIST torch examples. 
+
 Day0.23+24+25: Udacity
 ---------------
 1- Missed days: -1.5 (day 19 and day 20 = weekend)
